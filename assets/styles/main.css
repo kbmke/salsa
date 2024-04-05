@@ -92,4 +92,17 @@ li {
 
 a:link {
   text-decoration: none;
+  color: orange;
+  font-weight: 900;
+  text-align: center;
+  border: 2px solid red;
+  background-color: white;
+  border-radius: 50%;
+  padding: 0.8rem;
 }
+
+/* CLASS FORMATTING */
+.navigation {
+  background-color: black;
+}
+/* CLASS FORMATTING */
