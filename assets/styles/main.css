@@ -87,4 +87,9 @@ ul {
 
 li {
   margin: 1rem;
+  list-style-type: none;
+}
+
+a:link {
+  text-decoration: none;
 }
