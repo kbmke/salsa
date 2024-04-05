@@ -79,3 +79,12 @@ h6 {
 # root # __next {
   isolation: isolate;
 }
+
+ul {
+  display: flex;
+  flex-direction: row;
+}
+
+li {
+  margin: 1rem;
+}
